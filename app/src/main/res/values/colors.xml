@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="very_important">#DC7779</color>
+    <color name="important">#F3A73D</color>
+    <color name="less_important">#BADFEB</color>
+
+    <color name="less_important_button_not_activity">#C7CCE8</color>
+    <color name="less_important_button_activity">#6777C9</color>
+
+    <color name="important_button_not_activity">#FADDB6</color>
+    <color name="important_button_activity">#FFA208</color>
+
+    <color name="very_important_button_not_activity">#F4D4D4</color>
+    <color name="very_important_button_activity">#E65B60</color>
+</resources>
